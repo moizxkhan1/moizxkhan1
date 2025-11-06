@@ -40,8 +40,7 @@
 ---
 
 ### 🚀 Projects
-- 🌐 [[Hey Dividend](https://heydividend.com/)]  
-- 🧩 [[AGM](https://uat.earnedmedia.allied.tools/)] 
+- 🌐 [[Hey Dividend](https://heydividend.com/)]
 
 ---
 
